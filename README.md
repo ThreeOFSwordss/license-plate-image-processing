@@ -170,7 +170,11 @@ Processed Plate
       ↓
 Recognized Characters
 ```
+One of the outputs:
 
+<p align="center">
+  <img src="./1.png" width="700">
+</p>
 
 ---
 
@@ -204,59 +208,7 @@ These factors can make the detection and recognition process more challenging.
 
 ---
 
-## 📁 Repository Structure
-
-A possible structure for this project is:
-
-```text
-license-plate-processing/
-│
-├── README.md
-│
-├── images/
-│   ├── input.jpg
-│   ├── detected-plate.jpg
-│   └── result.jpg
-│
-└── src/
-    └── ...
-```
-
-The `images` directory can contain screenshots and visual results, while the source code can be placed inside the `src` directory.
-
----
-
 ## 📌 Project Status
 
 **Status:** Completed / Academic Project
 
----
-
-## 👤 Author
-
-**three of swords**
-
-Computer Engineering Student  
-AI ・ Computer Vision ・ Software Development
-
----
-
-## 📄 Note
-
-This project was developed for educational and experimental purposes as part of my work in computer vision and image processing.
-
-The repository is intended to document the project, its workflow, implementation concepts, and results.
-
----
-
-## 📂 Repository Structure
-
-```text
-license-plate-processing
-│
-├── README.md
-│
-├── images
-│
-└── src
-```
